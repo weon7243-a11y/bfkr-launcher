@@ -4,8 +4,9 @@ BubbleFighter KR 접속기 배포 및 자동업데이트 저장소입니다.
 
 ## 다운로드
 
-[최신 릴리스](https://github.com/weon7243-a11y/bfkr-launcher/releases/latest)에서 **BF접속기.exe**를 받습니다.
-접속기 이름을 유지하고 게임 폴더에 넣어 실행하세요. 게임 파일은 별도로 준비해야 합니다.
+[최신 릴리스](https://github.com/weon7243-a11y/bfkr-launcher/releases/latest)에서 **BFKR-Launcher.zip**을 받습니다.
+압축을 풀면 **BF접속기.exe**가 나옵니다. 이 이름을 유지하고 게임 폴더에 넣어 실행하세요.
+게임 파일은 별도로 준비해야 합니다.
 
 현재 최초 릴리스는 **테스트 환경 검증용**입니다. 로컬 테스트 인증 포트는 18120이며,
 운영 서버 접속 정보와 일반 배포 전환은 운영자의 별도 안내를 따릅니다.
