@@ -4,7 +4,7 @@ BubbleFighter KR 접속기 배포 및 자동업데이트 저장소입니다.
 
 ## 다운로드
 
-운영용 접속기는 [v1.0.8 운영 릴리스](https://github.com/weon7243-a11y/bfkr-launcher/releases/tag/v1.0.8)의 **BFKR-Production-Launcher.zip**을 받습니다. 압축을 풀어 **BF접속기.exe**와 **server.dat**를 게임 폴더에 넣으세요. 운영 VPN 주소는 26.43.139.87, 인증 포트는 17120입니다. 같은 Radmin VPN에 참가해야 합니다.
+운영용 접속기는 [v1.0.19 운영 릴리스](https://github.com/weon7243-a11y/bfkr-launcher/releases/tag/v1.0.19)의 **BFKR-Production-Launcher.zip**을 받습니다. 압축을 풀어 **BF접속기.exe**와 **server.dat**를 게임 폴더에 넣으세요. 운영 VPN 주소는 26.43.139.87, 인증 포트는 17120입니다. 같은 Radmin VPN에 참가해야 합니다.
 
 개발자 테스트용 접속기는 [테스트 최신 릴리스](https://github.com/weon7243-a11y/bfkr-launcher/releases/latest)의 **BFKR-Launcher.zip**을 받습니다. 로컬 테스트 인증 포트는 18120입니다. 테스트용 접속기를 일반 플레이어에게 배포하지 마세요.
 
